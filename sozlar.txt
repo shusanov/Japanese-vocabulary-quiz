@@ -1,0 +1,33 @@
+水,suv
+本,kitob
+学生,talaba
+先生,o'qituvchi
+影響,ta'sir
+状況,vaziyat
+解決,hal qilish
+判断,qaror chiqarish
+努力,harakat
+経験,tajriba
+目的,maqsad
+適切,munosib
+複雑,murakkab
+正確,aniq
+確認,tekshirish
+比較,taqqoslash
+増加,ko'payish
+減少,kamayish
+維持,saqlash
+改善,yaxshilash
+提案,taklif
+賛成,rozi
+反対,qarshi
+失敗,muvaffaqiyatsizlik
+成功,muvaffaqiyat
+期待,umid
+不安,xavotir
+機会,imkoniyat
+責任,mas'uliyat
+環境,atrof-muhit
+情報,ma'lumot
+選択,tanlash
+説明,tushuntirish
